@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyrecipesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PasswordRecoveryForm..cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewRecipeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RecipepageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Editrecipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
